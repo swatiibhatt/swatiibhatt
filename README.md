@@ -1,18 +1,20 @@
-<!-- Header GIF -->
+<!-- 🎮 Pixel Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header image" width="800" height="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Banner" width="800" />
 </p>
 
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi, I'm Swati Bhatt!
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="30"/> Hi, I'm Swati Bhatt!
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Software+Developer;Web+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Software+Developer;Web+Developer;Pixel+Art+Lover;Level+Up+Everyday" />
 </p>
 
 ---
+
+### 🕹 About Me
+
 
 ### 🧠 **About Me**
 - 🎓 B.Tech CSE Student | Passionate about technology  
